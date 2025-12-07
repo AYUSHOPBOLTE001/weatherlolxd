@@ -276,10 +276,10 @@ export default function About() {
                   Leading the team and project vision to success.
                 </p>
                 <div className="flex justify-center gap-3 mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
+                  <a href="https://github.com/AYUSHOPBOLTE001" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
                     <Github className="w-5 h-5" />
                   </a>
-                  <a href="#" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
+                  <a href="https://www.linkedin.com/in/ayushopbolte001/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
                     <Linkedin className="w-5 h-5" />
                   </a>
                 </div>
@@ -297,10 +297,10 @@ export default function About() {
                   Crafting beautiful and intuitive user experiences.
                 </p>
                 <div className="flex justify-center gap-3 mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
+                  <a href="https://ogarsh.tech/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
                     <Github className="w-5 h-5" />
                   </a>
-                  <a href="#" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
+                  <a href="https://ogarsh.tech/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
                     <Linkedin className="w-5 h-5" />
                   </a>
                 </div>
@@ -318,10 +318,10 @@ export default function About() {
                   Powering the application with robust backend solutions.
                 </p>
                 <div className="flex justify-center gap-3 mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
+                  <a href="https://github.com/Anushkalraa" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
                     <Github className="w-5 h-5" />
                   </a>
-                  <a href="#" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
+                  <a href="https://www.linkedin.com/in/anushkalra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
                     <Linkedin className="w-5 h-5" />
                   </a>
                 </div>
@@ -337,8 +337,8 @@ export default function About() {
                 This project is made possible by the contributions of the open-source community.
               </p>
               <div className="flex justify-center flex-wrap gap-4">
-                <a href="https://github.com/Abhiishek-Mohapatra/weatherlolxd/graphs/contributors">
-                  <img src="https://contrib.rocks/image?repo=Abhiishek-Mohapatra/weatherlolxd" alt="Contributors" />
+                <a href="https://github.com/AYUSHOPBOLTE001/weatherlolxd/graphs/contributors">
+                  <img src="https://contrib.rocks/image?repo=AYUSHOPBOLTE001/weatherlolxd" alt="Contributors" />
                 </a>
               </div>
               <p className="text-center text-sm text-muted-foreground mt-4">
@@ -346,7 +346,7 @@ export default function About() {
               </p>
               <div className="text-center mt-3">
                 <a 
-                  href="https://github.com/Abhiishek-Mohapatra/weatherlolxd" 
+                  href="https://github.com/AYUSHOPBOLTE001/weatherlolxd" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-primary hover:underline"

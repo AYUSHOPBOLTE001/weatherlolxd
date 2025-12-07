@@ -5,20 +5,20 @@ const teamMembers = [
   {
     name: "Ayush",
     designation: "Leader",
-    github: "#",
-    linkedin: "#"
+    github: "https://github.com/AYUSHOPBOLTE001",
+    linkedin: "https://www.linkedin.com/in/ayushopbolte001/"
   },
   {
     name: "Arsh",
     designation: "UI/UX Designer",
-    github: "#",
-    linkedin: "#"
+    github: "https://ogarsh.tech/",
+    linkedin: "https://ogarsh.tech/"
   },
   {
     name: "Anush",
     designation: "Backend Developer",
-    github: "#",
-    linkedin: "#"
+    github: "https://github.com/Anushkalraa",
+    linkedin: "https://www.linkedin.com/in/anushkalra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
   }
 ];
 
@@ -52,7 +52,7 @@ export function Footer() {
               <Link href="/about" className="text-sm text-muted-foreground hover:text-primary transition-colors block">
                 About
               </Link>
-              <a href="https://github.com/Abhiishek-Mohapatra/weatherlolxd" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-primary transition-colors block">
+              <a href="https://github.com/AYUSHOPBOLTE001/weatherlolxd" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-primary transition-colors block">
                 GitHub
               </a>
             </div>
